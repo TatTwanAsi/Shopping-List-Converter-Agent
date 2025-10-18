@@ -1,0 +1,2 @@
+class ShoppingAgent:
+    def __init__(self):
