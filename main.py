@@ -50,7 +50,7 @@ def main():
         # print(f"找到{len(shopping_items)}个商品")
 
         shopping_list = list(enumerate(shopping_items))
-        for i in range(70,85):
+        for i in range(110,120):
             print(i)
             webbrowser.open(shopping_list[i][1]['url'])
         
